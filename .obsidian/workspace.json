@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Coding Basics.md",
+                "file": "6.Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Windows Architecture.md",
+                "file": "6.Memory Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Windows Architecture.md",
+                "file": "6.Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Windows Architecture.md",
+                "file": "6.Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Windows Architecture.md"
+                "file": "6.Memory Management.md"
               }
             }
           }
@@ -207,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cedc1817e6d488fd",
+  "active": "dc38efa9cca7c276",
   "lastOpenFiles": [
+    "5.Windows Architecture.md",
+    "4.Coding Basics.md",
+    "6.Memory Management.md",
     "Pasted image 20240420205545.png",
     "Pasted image 20240420205524.png",
     "AssaultCube_v1.3_LockdownEdition_ALPHA1_0ca1d0c.tar.xz",
     "Pasted image 20240420204617.png",
     "windows-kernel-programming-1977593372978-1977593375_compress.pdf",
-    "6.Memory Management.md",
-    "5.Windows Architecture.md",
     "README.md",
-    "4.Coding Basics.md",
     "3.Required Tools.md",
     "2.Introduction to malware.md",
     "1.Welcome Module.md"

@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cedc1817e6d488fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Windows Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,13 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1af1ea4721b9aa0",
+  "active": "cedc1817e6d488fd",
   "lastOpenFiles": [
-    "4.Coding Basics.md",
+    "AssaultCube_v1.3_LockdownEdition_ALPHA1_0ca1d0c.tar.xz",
+    "Pasted image 20240420204617.png",
+    "windows-kernel-programming-1977593372978-1977593375_compress.pdf",
+    "6.Memory Management.md",
     "5.Windows Architecture.md",
+    "README.md",
+    "4.Coding Basics.md",
     "3.Required Tools.md",
     "2.Introduction to malware.md",
-    "1.Welcome Module.md",
-    "README.md"
+    "1.Welcome Module.md"
   ]
 }
